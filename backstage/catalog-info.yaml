@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ssas"
+  description: "dsds"  
+  annotations:
+    github.com/project-slug: utkarsh/ddl
+spec:
+  type: service
+  owner: "guests"
+  lifecycle: experimental
